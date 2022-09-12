@@ -1,3 +1,1 @@
-#Social App using Flutter Framwork 
-
-built with firebase
+##Mobile Apps using Flutter  framework by Google
